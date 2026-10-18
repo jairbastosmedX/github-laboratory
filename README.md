@@ -9,3 +9,7 @@ Este repositório foi criado para aprender Git e GitHub.
 - trabalhar com branches;
 - usar pull requests;
 - colaborar em projetos.
+  
+## Progresso
+
+Primeira alteração registrada no GitHub.
